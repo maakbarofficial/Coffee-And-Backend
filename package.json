@@ -1,0 +1,16 @@
+{
+  "name": "coffee-and-backend",
+  "version": "1.0.0",
+  "description": "Advance Backend Using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Backend",
+    "Nodejs"
+  ],
+  "author": "Muhammad Ali Akbar",
+  "license": "ISC"
+}
